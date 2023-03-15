@@ -77,7 +77,7 @@ h1,h2,h3,h4,p{
 }
 
 .filter-btn{
-    padding: 12px 24px 12px 24px;
+    padding: 11.2px 23.2px;
     border: 1px solid var(--footer-text-color);
     border-radius: 4px;
 
